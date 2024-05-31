@@ -18,6 +18,12 @@ This dataset consists of testing and training data for the 4 groups: No tumor, p
 * Visualize model performance
 * Get predictions
 * Model evaluation
+## Model architecture:
+![image](https://github.com/Nourine-Sabry/Brain-Tumor-Classification_CBIO313-CourseProject/assets/166754417/6816ec97-16c0-418f-9e88-a5f90ab753be)
+## Results:
+![image](https://github.com/Nourine-Sabry/Brain-Tumor-Classification_CBIO313-CourseProject/assets/166754417/a57e4e16-84ca-4f9d-a47c-a7c6fe18cae0)
+![image](https://github.com/Nourine-Sabry/Brain-Tumor-Classification_CBIO313-CourseProject/assets/166754417/b4fdb239-375c-4b53-85c1-0e178a2c1d11)
+![image](https://github.com/Nourine-Sabry/Brain-Tumor-Classification_CBIO313-CourseProject/assets/166754417/570fdfe3-6834-4381-9ccc-42e463e71428)
 ## Made with:
 * Tensorfow
 * OS
