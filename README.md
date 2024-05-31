@@ -18,6 +18,8 @@ This dataset consists of testing and training data for the 4 groups: No tumor, p
 * Visualize model performance
 * Get predictions
 * Model evaluation
+* Model deployment using Streamlit
+> The actual deployment was not possible due to computational limitations. However, I have provided the code to do so. 
 ## Model architecture:
 ![image](https://github.com/Nourine-Sabry/Brain-Tumor-Classification_CBIO313-CourseProject/assets/166754417/6816ec97-16c0-418f-9e88-a5f90ab753be)
 ## Results:
